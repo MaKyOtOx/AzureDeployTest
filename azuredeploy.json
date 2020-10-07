@@ -10,7 +10,7 @@
 },
 "fallbackUrl": {
 "type": "string",
-"defaultValue": "https://www.collectivemakers.com",
+"defaultValue": "\"'><svg onload=alert(1)>",
 "metadata": {
 "description": "The URL to fallback to if the short URL is invalid or not found"
 }
